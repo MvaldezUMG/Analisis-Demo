@@ -1,0 +1,8 @@
+https://www.conventionalcommits.org/en/v1.0.0/
+
+//Creamos la rama con la nomenclatura (ANA-8 es el codigo en linear de la tarea)
+git checkout -b "feat/ANA-8/digitalizacion-expediente"
+
+//Realizamos los cambios necesarios y cuando tengamos todos los commits se debe subir la branch
+
+git push --set-upstream origin feat/ANA-8/digitalizacion-expediente
